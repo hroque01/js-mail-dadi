@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://www.yougiochi.it/wp-content/uploads/2017/08/dadi-780x405.jpg);
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+.block {
+    background-color: white;
+    margin: 10px;
+    padding: 50px;
+}
